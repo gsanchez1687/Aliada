@@ -1,0 +1,148 @@
+{
+    "sidebar":[
+        {
+            "link":"/",
+            "icon":"material-symbols:airplay-outline",
+            "title":"Inicio",
+            "collapse":false,
+            "active":false
+        },
+        {
+            "icon":"bi:grid",
+            "title":"Mis propiedades",
+            "collapse":true,
+            "active":false,
+            "children":[
+                {
+                    "link":"/myproperties/addproperty",
+                    "title":"Agregar propiedad",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                },
+                {
+                    "link":"/myproperties/propertylist",
+                    "title":"Listado de Propiedades",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                }
+            ]
+        },
+        {
+            "icon":"lucide:users",
+            "title":"Usuarios",
+            "collapse":true,
+            "active":false,
+            "children":[
+                {
+                    "link":"/users/profile",
+                    "title":"Perfil",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                },
+                {
+                    "link":"/users/adduser",
+                    "title":"Agregar usuario",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                },
+                {
+                    "link":"/users/adduserwizard",
+                    "title":"Agregar usuario - v2",
+                    "icon":"material-symbols:keyboard-double-arrow-right",
+                    "label":"new"
+                },
+                {
+                    "link":"/users/edituser",
+                    "title":"Editar usuario",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                },
+                {
+                    "link":"/users/allusers",
+                    "title":"Todos los usuarios",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                }
+            ]
+        },
+        {
+            "icon":"ic:baseline-person-add-alt",
+            "title":"Equipo y Aliados",
+            "collapse":true,
+            "active":false,
+            "children":[
+                {
+                    "link":"/agent/agentprofile",
+                    "title":"Perfil Aliado",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                },
+                {
+                    "link":"/agent/addagent",
+                    "title":"Add agent",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                },
+                {
+                    "link":"/agent/addagentwizard",
+                    "title":"Add agent wizard",
+                    "icon":"material-symbols:keyboard-double-arrow-right",
+                    "label":"new"
+                },
+                {
+                    "link":"/agent/editagent",
+                    "title":"Edit agent",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                },
+                {
+                    "link":"/agent/allagent",
+                    "title":"All agents",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                },
+                {
+                    "link":"/agent/invoice",
+                    "title":"Invoice",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                }
+            ]
+        },
+        {
+            "link":"/map",
+            "icon":"material-symbols:location-on-outline-rounded",
+            "title":"Mapa de Propiedades",
+            "collapse":false,
+            "active":false
+        },
+        {
+            "link":"/report",
+            "icon":"ri:bar-chart-line",
+            "title":"Reportes",
+            "collapse":false,
+            "active":false
+        },
+        {
+            "link":"/payment",
+            "icon":"ph:credit-card",
+            "title":"Comisiones",
+            "collapse":false,
+            "active":false
+        },
+        {
+            "icon":"gg:lock-unlock",
+            "title":"Seguridad",
+            "collapse":true,
+            "active":false,
+            "children":[
+                {
+                    "link":"/Authentication/login",
+                    "title":"Log in",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                },
+                {
+                    "link":"/Authentication/signup",
+                    "title":"sign up",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                },
+                {
+                    "link":"/Authentication/404",
+                    "title":"404",
+                    "icon":"material-symbols:keyboard-double-arrow-right"
+                }
+            ]
+        }
+    ]
+}
+
+

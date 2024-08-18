@@ -1,0 +1,30 @@
+<template>
+    <div class="modal fade edit-profile-modal logout-modal" id="logout">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Logging out</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <h6>Are you sure ? you want to log out.</h6>
+                    <p>Once you will be logged out and will be unable to log in back.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-dashed color-2 btn-pill" data-bs-dismiss="modal">no</button>
+                    <button type="button" onclick="document.location='/home/corporate'" class="btn btn-gradient color-2 btn-pill">yes</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+
+<script setup lang="ts">
+
+</script>
+
+<style scoped>
+
+</style>

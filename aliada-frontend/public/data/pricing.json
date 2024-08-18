@@ -1,0 +1,47 @@
+{
+    "pricing":[
+        {
+            "svg":"/svg/icons.svg#home-heart",
+            "title":"Personal",
+            "details":"Residential design is the design of the interior of private residences.",
+            "l1":"Entertaining spaces with kitchen opening.",
+            "l2":"Elegant retreat in a quiet setting.",
+            "l3":"Apartment An individual multi-unit building.",
+            "month":"Month",
+            "price":"$120.00"
+            
+        },
+        {
+            "svg":"/svg/icons.svg#home-lock",
+            "title":"Professional",
+            "details":"Elegant retreat in a quiet Coral Gables setting. This home provides opening.",
+            "l1":"house is a single-unit residential building.",
+            "l2":"This House provides opening.",
+            "l3":"Location of resources will draw attention.",
+            "month":"Month",
+            "price":"$310.00"
+            
+        },
+        {
+            "svg":"/svg/icons.svg#homes",
+            "title":"Business",
+            "details":"Apartment An individual multi-unit building. Elegant Coral Gables setting.",
+            "l1":"Development team work together in ways.",
+            "l2":"Apartment individual multi-unit building.",
+            "l3":"great name for ranch surrounded by valleys.",
+            "month":"Month",
+            "price":"$430.00"
+        },
+        {
+            "svg":"/svg/icons.svg#home-lock",
+            "title":"Professional",
+            "details":"Elegant retreat in a quiet Coral Gables setting. This home provides opening.",
+            "l1":"house is a single-unit residential building.",
+            "l2":"This House provides opening.",
+            "l3":"Location of resources will draw attention.",
+            "month":"Month",
+            "price":"$310.00"
+            
+        }
+    ]
+}

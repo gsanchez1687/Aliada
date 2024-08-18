@@ -1,0 +1,111 @@
+{
+    "list":[
+        {
+            "src":"/image/blog/1.jpg",
+            "date":"15",
+            "month":"Dec",
+            "place":"Phonics ,Newyork",
+            "title":"Twice profit than before you ever got in business.",  
+            "first":true,
+            "order":true,      
+            "details":"Decoration is the furnishing of a space with decorative elements, sometimes complemented by advice and practical assistance. sometimes complemented by advice and practical assistance."
+        },
+        {
+            "src":"/image/blog/2.jpg",
+            "date":"25",
+            "month":"Feb",
+            "place":"Cambridge,England",
+            "title":"Residences can be classified how they are connected.", 
+            "first":false,
+            "order":false,       
+            "details":"Sometimes complemented by advice and practical assistance. Decoration is the furnishing of a space with decorative elements, sometimes complemented by advice and practical assistance."
+        },
+        {
+            "src":"/image/property/14.jpg",
+            "date":"22",
+            "month":"June",
+            "place":"Barcelona,London",
+            "title":"Different type of housing can used same physical type.",  
+            "first":false,
+            "order":true,
+            "details":"Residences can be classified by and how they are connected to neighbouring residences and land. Different types of housing tenure can be used for the same physical type."
+        },
+        {
+            "src":"/image/property/13.jpg",
+            "date":"10",
+            "month":"Feb",
+            "place":"Berlin,Germany",
+            "title":"Apartment An individual unit in a multi-unit building.",  
+            "order":false,  
+            "first":false,    
+            "details":"Luxury real estate is sometimes use as store value, especially wealthy foreigners, without any particular attempt to rent. Some luxury units in London and New York City."
+        },
+        {
+            "src":"/image/property/12.jpg",
+            "date":"16",
+            "month":"May",
+            "place":"Barcelona,London",
+            "title":"Different type of housing can used same physical type.", 
+            "order":true,    
+            "first":false,   
+            "details":"Luxury real estate is sometimes use as store value, especially wealthy foreigners, without any particular attempt to rent. Some luxury units in London and New York City."
+        },
+        {
+            "src":"/image/property/15.jpg",
+            "date":"17",
+            "month":"June",
+            "place":"Cambridge,England",
+            "title":"Apartment An individual unit in a multi-unit building.",      
+            "order":false,  
+            "first":false,
+            "details":"Luxury real estate is sometimes use as store value, especially wealthy foreigners, without any particular attempt to rent. Some luxury units in London and New York City."
+        }
+    ],
+    "blogdetails":[
+        {
+            "src":"/image/parallax/4.jpg",
+            "date":"13 September 2023",
+            "by":"Agent",
+            "hits":8,
+            "comment":20,
+            "title":"Orchard House",
+            "detail":"Residences can be classified by and how they are connected to neighbouring residences and land. Different types of housing tenure can be used for the same physical type. For example, connected residences might be owned by a single entity and leased out, or owned separately with an agreement covering the relationship between units and common areas and concerns",
+            "detail2":"Residential real estate may contain either a single family or multifamily structure that is available for occupation or for non-business purposes.Residences can be classified by and how they are connected to neighbouring residences and land.Different types of housing tenure can be used for the same physical type",
+            "detail3":"This rate of profitability occurred off the back of Australia’s longest housing market upswing on record, which was almost uninterrupted from September 1995 to January 2004, and saw housing values nationally increase by 109.7%."
+        }
+    ],
+    "comment":[
+        {
+            "src":"/image/avatar/3.jpg",
+            "username":"That Guy",
+            "date":"Dec 25, 2023",
+            "detail":"Residences can be classified by and how they are connected to neighbouring residences and land. Different types of housing tenure can be used for the same physical type. For example, connected residences might be owned by a single entity and leased out",
+            "children":[
+                {
+                    "src":"/image/avatar/2.jpg",
+                    "username":"That Guy",
+                    "date":"Dec 25, 2023",
+                    "detail":"For example, connected residences might be owned by a single entity and leased out,Residences can be classified by and how they are connected to neighbouring residences and land. Different types of housing tenure can be used for the same physical type."
+                }
+            ]
+            
+        },
+        {
+            "src":"/image/avatar/4.jpg",
+            "username":"That Guy",
+            "date":"Dec 25, 2023",
+            "detail":"Different types of housing tenure can be used for the same physical type. For example, connected esidences might be owned by a single entity and leased out, Residences can be classified by and how they are connected to neighbouring residences and land." 
+        }
+    ],
+    "gallery":[
+        {
+            "src":"/image/property/4.jpg"
+        },
+        {
+            "src":"/image/property/16.jpg"
+        },
+        {
+            "src":"/image/property/14.jpg"
+        }
+    ]
+}

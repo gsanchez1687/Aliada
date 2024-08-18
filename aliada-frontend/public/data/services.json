@@ -1,0 +1,98 @@
+{
+    "services":[
+        {
+            "svg":"/svg/icons.svg#home-heart",
+            "svg1":"/svg/icons.svg#line-straight",
+            "title":"Property Insurance",
+            "details":"Elegant retreat in a quiet Coral Gables setting. This home provides wonderful entertaining spaces with a chef kitchen opening."
+        },
+        {
+            "svg":"/svg/icons.svg#customer-service",
+            "svg1":"/svg/icons.svg#line-straight",
+            "title":"Fastest Service",
+            "details":"This home provides wonderful entertaining spaces with a chef kitchen opening. Elegant retreat in a quiet Coral Gables setting."
+        },
+        {
+            "svg":"/svg/icons.svg#shield",
+            "svg1":"/svg/icons.svg#line-straight",
+            "title":"Largest Real Estate",
+            "details":"A great name for a ranch surrounded by valley.This home provides wonderful entertaining space with kitchen opening."
+        }
+    ],
+    "services3":[
+        {
+            "icon":"material-symbols:home-outline",
+            "path":"/",
+            "title":"Property Management",
+            "details":"Property management is the control, maintenance of real estate and physical property."
+        },
+        {
+            "icon":"mdi:currency-usd",
+            "path":"/",
+            "title":"Mortgage Services",
+            "details":"Residences can be classified by and how they are connected to neighbouring residences and land."
+        },
+        {
+            "icon":"material-symbols:settings-outline",
+            "path":"/",
+            "title":"Currency Services",
+            "details":"A currency is standardization of money in any form when use or circulation as medium of exchange."
+        },
+        {
+            "icon":"material-symbols:notifications-outline",
+            "path":"/",
+            "title":"Get important notifications",
+            "details":"Residences can be classified by and how they are connected to neighbouring residences and land."
+        },
+        {
+            "icon":"ph:book-open-bold",
+            "path":"/",
+            "title":"Transparency",
+            "details":"Apartments or flats on each floor and with shared entrance stairway access found in Britain."
+        },
+        {
+            "icon":"majesticons:map-marker-line",
+            "path":"/",
+            "title":"Near by me",
+            "details":"Residences can be classified by and how they are connected to neighbouring residences and land."
+        }
+    ],
+    "services4":[
+        {
+            "img":"/image/service/2.png",
+            "title":"Mortgage Services",
+            "details":"Residences can be classified and connected to residences. Different types of housing can be used same physical type."
+
+        },
+        {
+            "img":"/image/service/1.png",
+            "title":"Property Management",
+            "details":"Property management is the operation, maintenance, and oversight of real estate and physical property."
+            
+        },
+        {
+            "img":"/image/service/3.png",
+            "title":"Currency Services",
+            "details":"A currency is standardization of money in any form when use or circulation as medium of exchange."
+            
+        },
+        {
+            "img":"/image/service/4.png",
+            "title":"Important Notification",
+            "details":"Residences can be classified and connected to residences. Different types of housing can be used same physical type."
+            
+        },
+        {
+            "img":"/image/service/5.png",
+            "title":"Near by me",
+            "details":"Residences can be classified and connected to residences. Different types of housing can be used same physical type."
+            
+        },
+        {
+            "img":"/image/service/1.png",
+            "title":"Property Management",
+            "details":"Property management is the operation, maintenance, and oversight of real estate and physical property."
+            
+        }
+    ]
+}

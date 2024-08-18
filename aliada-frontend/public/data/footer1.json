@@ -1,0 +1,74 @@
+{
+    "about":[
+        {
+            "name":"About us",
+            "link":"/page/otherpages/aboutus2"
+        },
+        {
+            "name":"Listing",
+            "link":"/listing/list_view/listing/nosidebar"
+        },
+        {
+            "name":"Property",
+            "link":"/property/single-property-1"
+        },
+        {
+            "name":"Page",
+            "link":"/page/portfolio/creative1"
+        },
+        {
+            "name":"Module",
+            "link":"/modules/property"
+        },
+        {
+            "name":"Blog",
+            "link":"/page/blog_page/left-sidebar"
+        },
+        {
+            "name":"Contact",
+            "link":"/contact/contact-2"
+        }
+    ],
+    "tag":[
+        {
+            "name":"Blog",
+            "link":"/page/blog_page/no-sidebar"
+        },
+        {
+            "name":"Blog list",
+            "link":"/page/blog_page/left-sidebar"
+        },
+        {
+            "name":"Creative blog",
+            "link":"/page/blog_page/creative-right-sidebar"
+        },
+        {
+            "name":"Masonry",
+            "link":"/page/blog_page/masonry-left-sidebar"
+        },
+        {
+            "name":"Mix blog",
+            "link":"/page/blog_page/mix-list-right-sidebar"
+        },
+        {
+            "name":"Details",
+            "link":"/page/blog_details/gallery"
+        },
+        {
+            "name":"Video",
+            "link":"/page/blog_details/video"
+        }
+    ],
+    "blog":[
+        {
+            "img":"/image/footer/1.jpg",
+            "heading":"Top News",
+            "description":"Apartment or Flat An individual unit in a  multi-unit building."
+        },
+        {
+            "img":"/image/footer/2.jpg",
+            "heading":"Latest News",
+            "description":"Residences can be classified and connected to residences.."
+        }
+    ]
+}

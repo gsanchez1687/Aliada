@@ -1,0 +1,13 @@
+{
+  "extends": "./.nuxt/tsconfig.json",   /* Extiende la configuración de TypeScript proporcionada por Nuxt */
+  "strictNullChecks": false,             /* Deshabilita la comprobación estricta de valores nulos */
+  "compilerOptions": {
+    "useUnknownInCatchVariables": false, /* No utiliza el tipo 'unknown' en variables de captura */
+    "types": [
+      "@types/node",                     /* Tipos de Node.js */
+      "@nuxt/vue-app",                   /* Tipos de Nuxt */
+      "nuxt-leaflet"                     /* Tipos de Nuxt para Leaflet */
+    ]
+  }
+}
+

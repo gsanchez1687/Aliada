@@ -1,0 +1,16 @@
+{
+    "data":[
+        {
+            "title":"Any Country",
+            "options":["Any Location In Country" , "Austria" , "Brazil" , "New York" , "USA"]
+        },
+        {
+            "title":"Any City",
+            "options":["Any Location In City" , "Ahmadabad" , "Amreli" , "Bharuch" , "Gandhinagar"]
+        },
+        {
+            "title":"Property Type",
+            "options":["Any property type" , "Office" , "Apartment" , "House" , "Villa"]
+        }
+    ]
+}

@@ -1,0 +1,446 @@
+{
+    "data":[
+        {
+            "src":"/image/property/4.jpg"
+        },
+        {
+            "src":"/image/property/2.jpg"
+        },
+        {
+            "src":"/image/property/4.jpg"
+        },
+        {
+            "src":"/image/property/5.jpg"
+        }
+    ],
+    "options":[
+        {
+            "src":"/image/svg/icon/double-bed.svg",
+            "name":"4 Bedrooms"
+        },
+        {
+            "src":"/image/svg/icon/bathroom.svg",
+            "name":"4 Bathrooms"
+        },
+        {
+            "src":"/image/svg/icon/sofa.svg",
+            "name":"2 Halls"
+        },
+        {
+            "src":"/image/svg/icon/square-ruler-tool.svg",
+            "name":"5000 m2"
+        },
+        {
+            "src":"/image/svg/icon/garage.svg",
+            "name":"1 Garage"
+        }
+    ],
+    "feature1":[
+        {
+            "icon":"fas fa-wifi",
+            "name":"Free Wi-Fi"
+        },
+        {
+            "icon":"fas fa-hands",
+            "name":"Elevator Lift"
+        },
+        {
+            "icon":"fas fa-power-off",
+            "name":"Power Backup"
+        },
+        {
+            "icon":"fas fa-monument",
+            "name":"Laundry Service"
+        }
+    ],
+    "feature2":[
+        {
+            "icon":"fas fa-user-shield",
+            "name":"Security Guard"
+        },
+        {
+            "icon":"fas fa-video",
+            "name":"CCTV"
+        },
+        {
+            "icon":"fas fa-door-open",
+            "name":"Emergency Exit"
+        },
+        {
+            "icon":"fas fa-first-aid",
+            "name":"Doctor On Call"
+        }
+    ],
+    "feature3":[
+        {
+            "icon":"fas fa-shower",
+            "name":"Shower"
+        },
+        {
+            "icon":"fas fa-car",
+            "name":"free Parking in the area"
+        },
+        {
+            "icon":"fas fa-fan",
+            "name":"Air Conditioning"
+        }
+    ],
+    "gallary":[
+        {
+            "src":"/image/property/4.jpg"
+        },
+        {
+            "src":"/image/property/3.jpg"
+        },
+        {
+            "src":"/image/property/14.jpg"
+        },
+        {
+            "src":"/image/property/11.jpg"
+        },
+        {
+            "src":"/image/property/12.jpg"
+        },
+        {
+            "src":"/image/property/4.jpg"
+        },
+        {
+            "src":"/image/property/3.jpg"
+        },
+        {
+            "src":"/image/property/11.jpg"
+        },
+        {
+            "src":"/image/property/12.jpg"
+        }
+    ],
+    "ul1":[
+        {
+            "name":"Property Type",
+            "value":"House"
+        },
+        {
+            "name":"Property ID",
+            "value":"Z0EA245"
+        },
+        {
+            "name":"PropertyStatus",
+            "value":"For Sale"
+        },
+        {
+            "name":"Operating Since",
+            "value":"2008"
+        }
+    ],
+    "ul2":[
+        {
+            "name":"Price",
+            "value":"$ 1,50,000"
+        },
+        {
+            "name":"Property Size",
+            "value":"1730 sq / ft"
+        },
+        {
+            "name":"Balcony",
+            "value":"2"
+        }
+    ],
+    "ul3":[
+        {
+            "name":"City",
+            "value":"Newyork"
+        },
+        {
+            "name":"Bedrooms",
+            "value":"8"
+        },
+        {
+            "name":"Bathrooms",
+            "value":"4"
+        }
+    ],
+    "rewiew":[
+        {
+            "class":"review-box",
+            "src":"/image/avatar/3.jpg",
+            "title":"Olive Yew",
+            "date":"Sep 13, 2023",
+            "rating":["fas fa-star" , "fas fa-star" , "fas fa-star" , "fas fa-star" , "fas fa-star"],
+            "details":"The location, view from the rooms are just awesome. Very cool landscaping has been done Around the hotel. There are small activities that you can indulge with your family."
+        },
+        {
+            "class":"review-box review-child",
+            "src":"/image/avatar/4.jpg",
+            "title":"Allie Grater",
+            "date":"Sep 25, 2023",
+            "rating":["fas fa-star" , "fas fa-star" , "fas fa-star" , "fas fa-star" , "far fa-star"],
+            "details":"We were there for 3 nights and hotel was too good. Greenery was flaunting everywhere. There were games kept for our entertainment."
+        },
+        {
+            "class":"review-box",
+            "src":"/image/avatar/2.jpg",
+            "title":"Walter Melon",
+            "date":"Oct 20, 2023",
+            "rating":["fas fa-star" , "fas fa-star" , "fas fa-star" , "far fa-star" , "far fa-star"],
+            "details":" There are small activities that you can indulge with your family. Very cool landscaping has been done Around the hotel. The location, view from the rooms are just awesome."
+        }
+    ],
+    "feature":[
+        {
+            "src":"/image/property/4.jpg",
+            "title":"Downtown",
+            "price":"13,000"
+        },
+        {
+            "src":"/image/property/16.jpg",
+            "title":"Downtown",
+            "price":"13,000"
+        },
+        {
+            "src":"/image/property/14.jpg",
+            "title":"Downtown",
+            "price":"13,000"
+        }
+    ],
+    "related":[
+        {
+            "img": [
+              "/image/property/1.jpg",
+              "/image/property/2.jpg",
+              "/image/property/3.jpg",
+              "/image/property/4.jpg",
+              "/image/property/4.jpg",
+              "/image/property/4.jpg"
+            ],
+            "type": "rent",
+            "propertyStatus": "For Sale",
+            "label": ["sale"],
+            "country": "FRANCE",
+            "title": "Little Acorn Farm",
+            "price": "6558.00",
+            "details": "The most common and most absolute type of estate, the tenant enjoys the greatest discretion over the disposal of the property.",
+            "home": "Virtual Home",
+            "bed": 4,
+            "bath": 4,
+            "sqft": 3700,
+            "rooms": 4,
+            "date": "August 4, 2023",
+            "video": "/video/video2.mp4",
+            "id": "36",
+            "propertyType": "Office",
+            "agencies": "Lincoln"
+          },
+      
+          {
+            "img": [
+              "/image/property/4.jpg",
+              "/image/property/3.jpg",
+              "/image/property/2.jpg",
+              "/image/property/4.jpg",
+              "/image/property/1.jpg",
+              "/image/property/4.jpg"
+            ],
+            "type": "rent",
+            "propertyStatus": "For Sale",
+            "label": ["sale"],
+            "country": "FRANCE",
+            "title": "Little Acorn Farm",
+            "price": "6558.00",
+            "details": "The most common and most absolute type of estate, the tenant enjoys the greatest discretion over the disposal of the property.",
+            "home": "Virtual Home",
+            "bed": 4,
+            "bath": 4,
+            "sqft": 4900,
+            "rooms": 5,
+            "date": "August 4, 2023",
+            "video": "/video/video.mp4",
+            "id": "80",
+            "propertyType": "Duplexes",
+            "agencies": "Zephry"
+          },
+      
+          {
+            "img": [
+              "/image/property/8.jpg",
+              "/image/property/7.jpg",
+              "/image/property/3.jpg",
+              "/image/property/5.jpg",
+              "/image/property/4.jpg",
+              "/image/property/4.jpg"
+            ],
+            "type": "sale",
+            "propertyStatus": "For Sale",
+            "label": ["sale"],
+            "country": "USA",
+            "title": "Home in Merrick Way",
+            "price": "4513.00",
+            "details": "Elegant retreat in a quiet Coral Gables setting. This home provides wonderful entertaining spaces with a chef kitchen opening.",
+            "home": "Virtual Home",
+            "bed": 4,
+            "bath": 4,
+            "sqft": 5000,
+            "rooms": 6,
+            "date": "January 6, 2023",
+            "video": "/video/video.mp4",
+            "id": "97",
+            "propertyType": "Villa",
+            "agencies": "Lincoln"
+          }
+    ],
+    "related2":[
+        {
+            "img": [
+              "/image/property/1.jpg",
+              "/image/property/2.jpg",
+              "/image/property/3.jpg",
+              "/image/property/4.jpg",
+              "/image/property/4.jpg",
+              "/image/property/4.jpg"
+            ],
+            "type": "rent",
+            "propertyStatus": "For Sale",
+            "label": ["sale"],
+            "country": "FRANCE",
+            "title": "Little Acorn Farm",
+            "price": "6558.00",
+            "details": "The most common and most absolute type of estate, the tenant enjoys the greatest discretion over the disposal of the property.",
+            "home": "Virtual Home",
+            "bed": 4,
+            "bath": 4,
+            "sqft": 3700,
+            "rooms": 4,
+            "date": "August 4, 2023",
+            "video": "/video/video2.mp4",
+            "id": "36",
+            "propertyType": "Office",
+            "agencies": "Lincoln"
+          },
+      
+          {
+            "img": [
+              "/image/property/4.jpg",
+              "/image/property/3.jpg",
+              "/image/property/2.jpg",
+              "/image/property/4.jpg",
+              "/image/property/1.jpg",
+              "/image/property/4.jpg"
+            ],
+            "type": "rent",
+            "propertyStatus": "For Sale",
+            "label": ["sale"],
+            "country": "FRANCE",
+            "title": "Little Acorn Farm",
+            "price": "6558.00",
+            "details": "The most common and most absolute type of estate, the tenant enjoys the greatest discretion over the disposal of the property.",
+            "home": "Virtual Home",
+            "bed": 4,
+            "bath": 4,
+            "sqft": 4900,
+            "rooms": 5,
+            "date": "August 4, 2023",
+            "video": "/video/video.mp4",
+            "id": "80",
+            "propertyType": "Duplexes",
+            "agencies": "Zephry"
+          },
+      
+          {
+            "img": [
+              "/image/property/8.jpg",
+              "/image/property/7.jpg",
+              "/image/property/3.jpg",
+              "/image/property/5.jpg",
+              "/image/property/4.jpg",
+              "/image/property/4.jpg"
+            ],
+            "type": "sale",
+            "propertyStatus": "For Sale",
+            "label": ["sale"],
+            "country": "USA",
+            "title": "Home in Merrick Way",
+            "price": "4513.00",
+            "details": "Elegant retreat in a quiet Coral Gables setting. This home provides wonderful entertaining spaces with a chef kitchen opening.",
+            "home": "Virtual Home",
+            "bed": 4,
+            "bath": 4,
+            "sqft": 5000,
+            "rooms": 6,
+            "date": "January 6, 2023",
+            "video": "/video/video.mp4",
+            "id": "97",
+            "propertyType": "Villa",
+            "agencies": "Lincoln"
+          },
+          {
+            "img": [
+              "/image/property/8.jpg",
+              "/image/property/7.jpg",
+              "/image/property/3.jpg",
+              "/image/property/5.jpg",
+              "/image/property/4.jpg",
+              "/image/property/4.jpg"
+            ],
+            "type": "sale",
+            "propertyStatus": "For Sale",
+            "label": ["sale"],
+            "country": "USA",
+            "title": "Home in Merrick Way",
+            "price": "4513.00",
+            "details": "Elegant retreat in a quiet Coral Gables setting. This home provides wonderful entertaining spaces with a chef kitchen opening.",
+            "home": "Virtual Home",
+            "bed": 4,
+            "bath": 4,
+            "sqft": 5000,
+            "rooms": 6,
+            "date": "January 6, 2023",
+            "video": "/video/video.mp4",
+            "id": "97",
+            "propertyType": "Villa",
+            "agencies": "Lincoln"
+          }
+    ],
+    "single6image":[
+        {
+            "src":"/image/property/4.jpg"
+        },
+        {
+            "src":"/image/property/2.jpg"
+        },
+        {
+            "src":"/image/property/7.jpg"
+        },
+        {
+            "src":"/image/property/6.jpg"
+        }
+    ],
+    "imagebox":[
+        {
+            "img":["/image/property/4.jpg"],
+            "classes":"col-md-6 p-0"
+            
+        },
+        {
+            "img":["/image/property/2.jpg" , "/image/property/1.jpg"],
+            "classes":"col-md-3 col-6 p-0"
+        },
+        {
+            "img":["/image/property/5.jpg" , "/image/property/3.jpg"],
+            "classes":"col-md-3 col-6 p-0"
+        }
+        
+    ],
+    "imageboxid":[
+        
+        {
+            "img":["/image/property/2.jpg" , "/image/property/1.jpg"],
+            "classes":"col-md-3 col-6 p-0"
+        },
+        {
+            "img":["/image/property/5.jpg" , "/image/property/3.jpg"],
+            "classes":"col-md-3 col-6 p-0"
+        }
+        
+    ]
+       
+}

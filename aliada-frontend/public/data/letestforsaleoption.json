@@ -1,0 +1,37 @@
+{
+    "options":[
+        {
+            "name":"Recámaras",
+            "key":"bed"
+        },
+        {
+            "name":"Baños",
+            "key":"bath"
+        },
+        {
+            "name":"Balcón",
+            "key":"balcony"
+        },
+        {
+            "name":"Área",
+            "key":"area"
+        }
+    ],
+    "featureoption":[
+        {
+            "src":"/image/svg/icon/double-bed.svg",
+            "name":"Recámaras",
+            "key":"bed"
+        },
+        {
+            "src":"/image/svg/icon/bathroom.svg",
+            "name":"Baños",
+            "key":"bath"
+        },
+        {
+            "src":"/image/svg/icon/square-ruler-tool.svg",
+            "name":"m2",
+            "key":"sqft"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+   "icons":[
+        {
+            "src":"/image/about/icon-1.png",
+            "link":"https://accounts.google.com/"
+        },
+        {
+            "src":"/image/about/icon-2.png",
+            "link":"https://twitter.com/"
+        },
+        {
+            "src":"/image/about/icon-3.png",
+            "link":"https://www.facebook.com/"
+        }
+   ]
+}

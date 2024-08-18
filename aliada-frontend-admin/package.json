@@ -1,0 +1,46 @@
+{
+  "name": "nuxt-app-admin",
+  "private": true,
+  "nuxt": {
+    "port": 3002
+  },
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18.17.0",
+    "nuxt": "^3.6.5",
+    "nuxt-auth-sanctum": "^0.1.2",
+    "nuxt-icon": "^0.4.2",
+    "vue-datamaps": "^0.3.6"
+  },
+  "dependencies": {
+    "@nuxt/ui": "^2.15.2",
+    "@pinia/nuxt": "^0.4.9",
+    "@syncfusion/ej2-vue-maps": "^22.2.8",
+    "@vuepic/vue-datepicker": "^6.0.1",
+    "apexcharts": "^3.41.0",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.1",
+    "date-fns": "^3.6.0",
+    "dropzone-vue": "^0.1.11",
+    "sass": "^1.64.1",
+    "sweetalert": "^2.1.2",
+    "swiper": "^10.1.0",
+    "v-calendar": "^3.1.2",
+    "vue3-apexcharts": "^1.4.4",
+    "vue3-datepicker": "^0.4.0",
+    "vue3-dropzone": "^2.2.1",
+    "vue3-form-wizard": "^0.2.1",
+    "vue3-google-map": "^0.17.1",
+    "vue3-openlayers": "^3.0.0",
+    "vuejs3-datepicker": "^1.0.19",
+    "vuevectormap": "^1.1.0"
+  }
+}

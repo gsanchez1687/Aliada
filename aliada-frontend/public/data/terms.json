@@ -1,0 +1,81 @@
+{
+    "data":[
+        {
+            "details":"selling, sublicensing and/or otherwise commercializing any Website material;"
+        },
+        {
+            "details":"publishing any Website material in any other media;"
+        },
+        {
+            "details":"using this Website in any way that is or may be damaging to this Website;"
+        },
+        {
+            "details":"using this Website to engage in any advertising or marketing."
+        }
+    ],
+    "terms":[
+        {
+            "id":"limitation",
+            "title":"Limitation of liability",
+            "details":"In no event shall Pixelstrap, nor any of its officers, directors and employees, shall be held liable for anything arising out of or in any way connected with your use of this Website whether such liability is under contract.  Pixelstrap, including its officers, directors and employees shall not be held liable for any indirect, consequential or special liability arising out of or in any way related to your use of this Website."
+        },
+        {
+            "id":"reservation",
+            "title":"Reservation of Rights",
+            "details":"We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it's linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions."
+        },
+        {
+            "id":"disclaimer",
+            "title":"Disclaimer",
+            "details":"The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.",
+            "details2":"As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature."
+        }
+    ],
+    "howuse":[
+        {
+            "details":"Understand and analyze how you use our website"
+        },
+        {
+            "details":"Provide, operate, and maintain our website"
+        },
+        {
+            "details":"Develop new products, services, features, and functionality"
+        }
+    ],
+    "privacy":[
+        {
+            "id":"thirdparty",
+            "title":"Third-Party Privacy Policies",
+            "details":"Aliada's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.",
+            "details2":"You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?"
+        },
+        {
+            "id":"advertising",
+            "title":"Advertising Partners Privacy Policies",
+            "details":"You may consult this list to find the Privacy Policy for each of the advertising partners of Aliada.",
+            "details2":"Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Website Name, which are sent directly to users' browser.",
+            "details3":"Note that Aliada has no access to or control over these cookies that are used by third-party advertisers."
+        },
+        {
+            "id":"dpr",
+            "title":"GDPR Privacy Policy (Data Protection Rights)",
+            "details":"We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:",
+            "details2":"The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.",
+            "details3":"The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete."
+        }
+    ],
+    "intro":[
+        {
+            "id":"intro",
+            "title":"Information we collect",
+            "details":[
+                {
+                    "detail":"The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information."
+                },
+                {
+                    "details":"If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide."
+                }
+            ]
+        }
+    ]
+}

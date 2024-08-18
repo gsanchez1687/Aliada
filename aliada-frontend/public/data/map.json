@@ -1,0 +1,69 @@
+{
+  "map": [
+    {
+      "name": "Sea Breezes",
+      "location_latitude": 25.206426,
+      "location_longitude": 55.346465,
+      "map_image_url": "/image/property/15.jpg",
+      "name_point": "Sea Breezes",
+      "price": "$1200",
+      "label": "for sale",
+      "bed": "4",
+      "bath": "4",
+      "sqft": "5000",
+      "title": "first",
+      "url_point": "single-property-8.html"
+    },
+    {
+      "name": "Orchard House",
+      "location_latitude": 25.222578,
+      "location_longitude": 55.319011,
+      "map_image_url": "/image/6.jpg",
+      "name_point": "Orchard House",
+      "price": "$1200",
+      "label": "for rent",
+      "bed": "8",
+      "bath": "6",
+      "sqft": "5800",
+      "title": "second",
+      "url_point": "single-property-8.html"
+    },
+    {
+      "name": "Downtown",
+      "location_latitude": 25.209843,
+      "location_longitude": 55.293616,
+      "map_image_url": "/image/property/14.jpg",
+      "name_point": "Downtown",
+      "price": "$1200",
+      "label": "for sale",
+      "bed": "4",
+      "bath": "4",
+      "sqft": "5000",
+      "title": "third",
+      "url_point": "single-property-8.html"
+    },
+    {
+      "name": "Home in Merrick Way",
+      "location_latitude": 25.229721,
+      "location_longitude": 55.328229,
+      "map_image_url": "/image/feature/9.jpg",
+      "name_point": "Home in Merrick Way",
+      "price": "$1200",
+      "label": "for rent",
+      "bed": "5",
+      "bath": "3",
+      "sqft": "6000",
+      "title": "four",
+      "url_point": "single-property-8.html"
+    }
+  ],
+  "googlemap":[
+    {
+      "position":{
+        "lat": 25.206426,
+        "lng": 55.346465
+      },
+      "popup":"<div class='marker-detail'>"
+    }
+  ]
+}

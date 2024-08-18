@@ -1,0 +1,42 @@
+{
+    "address":[
+        {
+            "icon":"octicon:location",
+            "title":"Where ?",
+            "add":"549 Sulphur Springs Road",
+            "add2":"Downers Grove, IL 60515",
+            "phone":"+91 361264100"
+        },
+        {
+            "icon":"octicon:location",
+            "title":"Second branch",
+            "add":"5415 Spring garden Road ",
+            "add2":"Halifax, IL 97230",
+            "phone":"+91 187230014"
+        },
+        {
+            "icon":"material-symbols:mail-outline",
+            "title":"Online service",
+            "inq":"Aliada@.in",
+            "supp":"help@.in",
+            "phone2":"+86 163 - 451 - 7894"
+        }
+    ],
+    "details":[
+        {
+            "icon":"octicon:location",
+            "title":"Where ?",
+            "add":"549 Sulphur Springs Road",
+            "add2":"Downers Grove, IL 60515",
+            "phone":"+91 361264100"
+        },
+        {
+            "icon":"material-symbols:mail-outline",
+            "title":"Online service",
+            "inq":"Aliada@.in",
+            "supp":"help@.in",
+            "site":"www.test.com",
+            "phone2":"+86 163 - 451 - 7894"
+        }
+    ]
+}

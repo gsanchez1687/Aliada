@@ -1,0 +1,59 @@
+{
+    "category":[
+        {
+            "name":"Apartment",
+            "totle":"15"
+        },
+        {
+            "name":"Villa",
+            "totle":"10"
+        },
+        {
+            "name":"Family House",
+            "totle":"8"
+        },
+        {
+            "name":"Town House",
+            "totle":"8"
+        },
+        {
+            "name":"Offices",
+            "totle":"12"
+        },
+        {
+            "name":"Duplexes",
+            "totle":"3"
+        }
+    ],
+    "info":[
+        {
+            "icon":"material-symbols:location-on-outline",
+            "name":"A-32, Albany, Newyork."
+        },
+        {
+            "icon":"material-symbols:phone-in-talk-outline",
+            "name":"(+066) 518 - 457 - 5181"
+        },
+        {
+            "icon":"material-symbols:mail-outline-rounded",
+            "name":"Contact@gmail.com"
+        }
+    ],
+    "added":[
+        {
+            "img":"/image/property/9.jpg",
+            "title":"Sea Breezes",
+            "price":"9800"
+        },
+        {
+            "img":"/image/property/10.jpg",
+            "title":"Orchard House",
+            "price":"7500"
+        },
+        {
+            "img":"/image/property/11.jpg",
+            "title":"Downtown",
+            "price":"5000"
+        }
+    ]
+}

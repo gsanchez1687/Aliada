@@ -1,0 +1,110 @@
+{
+  "about": [
+    {
+      "name":"About us",
+      "link":"/page/otherpages/aboutus2"
+  },
+  {
+      "name":"Listing",
+      "link":"/listing/list_view/listing/nosidebar"
+  },
+  {
+      "name":"Property",
+      "link":"/property/single-property-1"
+  },
+  {
+      "name":"Page",
+      "link":"/page/portfolio/creative1"
+  },
+  {
+      "name":"Module",
+      "link":"/modules/property"
+  },
+  {
+      "name":"Blog",
+      "link":"/page/blog_page/left-sidebar"
+  },
+  {
+      "name":"Contact",
+      "link":"/contact/contact-2"
+  }
+  ],
+  "Buy": [
+    {
+      "name": "Home For Sale",
+      "link": "/listing/grid_view/2_grid_view/left-sidebar"
+    },
+    {
+      "name": "Open House",
+      "link": "/listing/grid_view/3_grid_view/nosidebar"
+    },
+    {
+      "name": "New Listing",
+      "link": "/listing/list_view/listing/leftsidebar"
+    },
+    {
+      "name": "Recently Reduce",
+      "link": "/listing/list_view/thumbnailimage"
+    },
+    {
+      "name": "Off-Market Home",
+      "link": "/listing/tablayout/tablayout"
+    },
+    {
+      "name": "Latest House",
+      "link": "/listing/list_view/video"
+    }
+  ],
+  "sell": [
+    {
+      "name": "Sale Your Home",
+      "link": "/agent/submit-property"
+    },
+    {
+      "name": "Get a Home Version",
+      "link": "/listing/list_view/listing/rightsidebar"
+    },
+    {
+      "name": "Lock Home Price",
+      "link": "/page/otherpages/pricing"
+    },
+    {
+      "name": "Guide & Rules",
+      "link": "/page/user-panel/user-privacy"
+    },
+    {
+      "name": "Sold Home History",
+      "link": "/listing/grid_view/2_grid_view/left-sidebar"
+    },
+    {
+      "name": "Other",
+      "link": "/listing/tablayout/tablayout"
+    }
+  ],
+  "estate": [
+    {
+      "name": "Home For Sale",
+      "link": "/listing/grid_view/2_grid_view/left-sidebar"
+    },
+    {
+      "name": "Open House",
+      "link": "/listing/grid_view/3_grid_view/nosidebar"
+    },
+    {
+      "name": "New Listing",
+      "link": "/listing/list_view/listing/leftsidebar"
+    },
+    {
+      "name": "Recently Reduce",
+      "link": "/listing/list_view/thumbnailimage"
+    },
+    {
+      "name": "Off-Market Home",
+      "link": "/listing/grid_view/3_grid_view/nosidebar"
+    },
+    {
+      "name": "Latest House",
+      "link": "/listing/list_view/video"
+    }
+  ]
+}

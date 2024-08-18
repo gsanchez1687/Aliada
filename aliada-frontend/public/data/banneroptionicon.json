@@ -1,0 +1,12 @@
+{
+  "icon": [
+    {
+      "img": "/image/icon/bed.png",
+      "name": "Bedroom"
+    },
+    {
+      "img": "/image/icon/bathroom.png",
+      "name": "Bathroom"
+    }
+  ]
+}

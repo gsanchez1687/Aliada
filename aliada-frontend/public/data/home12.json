@@ -1,0 +1,23 @@
+{
+    "data":[
+        {
+            "label":"New",
+            "title":"Home in",
+            "heading":"California Avenue",
+            "details":"Merrick Way,&nbsp;Miami, FL United Kingdom",
+            "icon":[
+                {
+                    "path":"/image/icon/bed.png",
+                    "name":"Bedroom"
+                },
+                {
+                    "path":"/image/icon/bathroom.png",
+                    "name":"Bathroom"
+                }
+            ],
+            "sqft":"9532",
+            "price":"$48596.00",
+            "tag":"Home For Sale"
+        }
+    ]
+}

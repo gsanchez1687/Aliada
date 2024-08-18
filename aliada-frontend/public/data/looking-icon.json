@@ -1,0 +1,43 @@
+{
+    "data":[
+        {
+            "heading":"What are you looking for?",
+            "type": "filter",
+            "icons":[
+                {
+                    "name":"House",
+                    "icon":"/svg/icons.svg#home-lock",
+                    "path":"/listing/grid_view/2_grid_view/left-sidebar"
+                },
+                {
+                    "name":"Booking",
+                    "icon":"/svg/icons.svg#home-heart",
+                    "path":"/page/user-panel/create-property"
+                },
+                {
+                    "name":"Garage",
+                    "icon":"/svg/icons.svg#key",
+                    "path":"/page/user-panel/user-listing"
+                }
+            ]
+        }
+    ],
+    "classic":[
+        {
+            "icon":"/svg/icons.svg#home-heart",
+            "name":"home"
+        },
+        {
+            "icon":"/svg/icons.svg#ruler",
+            "name":"sqft"
+        },
+        {
+            "icon":"/svg/icons.svg#key",
+            "name":"rooms"
+        },
+        {
+            "icon":"/svg/icons.svg#safety",
+            "name":"date"
+        }
+    ]
+}

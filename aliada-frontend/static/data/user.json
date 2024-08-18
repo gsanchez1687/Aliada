@@ -1,0 +1,36 @@
+{
+    "links":[
+        {
+            "link":"/",
+            "name":"Dashboard"
+        },
+        {
+            "link":"/",
+            "name":"My Listing"
+        },
+        {
+            "link":"/",
+            "name":"create property"
+        },
+        {
+            "link":"/",
+            "name":"My profile"
+        },
+        {
+            "link":"/",
+            "name":"favourites"
+        },
+        {
+            "link":"/",
+            "name":"Cards & payment"
+        },
+        {
+            "link":"/",
+            "name":"Privacy"
+        },
+        {
+            "link":"/",
+            "name":"Log out"
+        }
+    ]
+}

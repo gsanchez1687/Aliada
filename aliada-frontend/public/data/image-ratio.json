@@ -1,0 +1,36 @@
+{
+    "ratio":[
+        {
+            "h6":".ratio_40 - 40%"
+        },
+        {
+            "h6":".ratio_45 - 45%"
+        },
+        {
+            "h6":".ratio2_1 - 50%"
+        },
+        {
+            "h6":".ratio2_3 - 60%"
+        },
+        {
+            "h6":".ratio3_2 - 66.66%"
+        }
+    ],
+    "shapes":[
+        {
+            "h6":".ratio_landscape - 75"
+        },
+        {
+            "h6":".ratio_square - 100"
+        },
+        {
+            "h6":".ratio_portrait - 150"
+        },
+        {
+            "h6":".ratio1_2 - 200"
+        }
+    ],
+    "ratio23":["/image/1.jpg","/image/banner-image.jpg","/image/3.jpg","/image/4.jpg"],
+    "ratiosquare":["/image/1.jpg","/image/banner-image.jpg","/image/3.jpg","/image/4.jpg"],
+    "ratioportrait":["/image/1.jpg","/image/banner-image.jpg","/image/3.jpg","/image/4.jpg"]
+}

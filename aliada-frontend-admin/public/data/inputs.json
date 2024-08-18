@@ -1,0 +1,137 @@
+{
+  "status": ["En Venta", "En Renta"],
+  "propertyoptions": ["Casa", "Departamento"],
+  "vistas": ["Interior", "Calle", "Mar", "Jungla"],
+  "room": [2, 3, 4, 5, 6],
+  "agencies": ["Blue Sky", "Zephyr", "Premiere"],
+  "country": ["México"],
+  "estados": ["CDMX"],
+  "city": ["Ciudad de México"],
+  "features": [
+    {
+      "c_id": "chk-ani-1",
+      "name": "Bodega",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-2",
+      "name": "Cocina",
+      "checked": true
+    },
+    {
+      "c_id": "chk-ani-3",
+      "name": "Cuarto de servicio",
+      "checked": true
+    },
+    {
+      "c_id": "chk-ani-4",
+      "name": "Seguridad",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-5",
+      "name": "Elevador",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-6",
+      "name": "Estacionamiento",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-7",
+      "name": "Estudio",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-8",
+      "name": "Terraza",
+      "checked": true
+    },
+    {
+      "c_id": "chk-ani-9",
+      "name": "Alberca",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-10",
+      "name": "Rooftop",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-11",
+      "name": "Jacuzzi",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-12",
+      "name": "Paneles solares",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-13",
+      "name": "Bar",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-14",
+      "name": "Restaurante",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-15",
+      "name": "Sala de juegos",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-16",
+      "name": "Cine",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-17",
+      "name": "Amueblado",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-18",
+      "name": "Equipado",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-19",
+      "name": "Gimnasio",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-20",
+      "name": "Spa",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-21",
+      "name": "Área de yoga",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-22",
+      "name": "Coworking (Business center)",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-23",
+      "name": "Estacionamiento para visitas",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-24",
+      "name": "Lavandería",
+      "checked": false
+    },
+    {
+      "c_id": "chk-ani-25",
+      "name": "Asador",
+      "checked": false
+    }
+  ]
+}

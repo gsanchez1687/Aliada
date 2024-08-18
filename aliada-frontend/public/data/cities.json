@@ -1,0 +1,35 @@
+{
+    "city":[
+        {
+            "img":"/image/feature/3.jpg",
+            "title":"U.S.A",
+            "property":"10+ Peroperty"
+        },
+        {
+            "img":"/image/feature/4.jpg",
+            "title":"New York",
+            "property":"12+ Property"
+        },
+        {
+            "img":"/image/feature/5.jpg",
+            "title":"England",
+            "property":"16+ Property"
+        },
+        {
+            "img":"/image/feature/6.jpg",
+            "title":"America",
+            "property":"17+ Property"
+        },
+        {
+            "img":"/image/feature/7.jpg",
+            "title":"Dubai",
+            "property":"05+ Peroperty"
+        },
+        {
+            "img":"/image/feature/5.jpg",
+            "title":"England",
+            "property":"15+ Property"
+        }
+
+    ]
+}

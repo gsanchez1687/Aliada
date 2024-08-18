@@ -1,0 +1,500 @@
+{
+    "img":[
+        {
+            "src":"/image/1.jpg",
+            "type":"sale"
+        },
+        {
+            "src":"/image/banner-image.jpg",
+            "type":"rent"
+        },
+        {
+            "src":"/image/3.jpg",
+            "type":"trend"
+        },
+        {
+            "src":"/image/4.jpg",
+            "type":"rent"
+        },
+        {
+            "src":"/image/property/8.jpg",
+            "type":"sale"
+        },
+        {
+            "src":"/image/property/6.jpg",
+            "type":"trend"
+        }
+        
+    ],
+    "img3":[
+        {
+            "src":"/image/1.jpg",
+            "type":"sale"
+        },
+        {
+            "src":"/image/banner-image.jpg",
+            "type":"rent"
+        },
+        {
+            "src":"/image/3.jpg",
+            "type":"trend"
+        },
+        {
+            "src":"/image/4.jpg",
+            "type":"rent"
+        },
+        {
+            "src":"/image/property/8.jpg",
+            "type":"sale"
+        },
+        {
+            "src":"/image/property/6.jpg",
+            "type":"trend"
+        },
+        {
+            "src":"/image/4.jpg",
+            "type":"rent"
+        },
+        {
+            "src":"/image/property/8.jpg",
+            "type":"sale"
+        },
+        {
+            "src":"/image/property/6.jpg",
+            "type":"trend"
+        }
+        
+    ],
+    "img4":[
+        {
+            "src":"/image/1.jpg",
+            "type":"sale"
+        },
+        {
+            "src":"/image/banner-image.jpg",
+            "type":"rent"
+        },
+        {
+            "src":"/image/3.jpg",
+            "type":"trend"
+        },
+        {
+            "src":"/image/4.jpg",
+            "type":"rent"
+        },
+        {
+            "src":"/image/property/8.jpg",
+            "type":"sale"
+        },
+        {
+            "src":"/image/property/6.jpg",
+            "type":"trend"
+        },
+        {
+            "src":"/image/4.jpg",
+            "type":"rent"
+        },
+        {
+            "src":"/image/property/8.jpg",
+            "type":"sale"
+        }
+       
+    ],
+    "gridtitle2":[
+        {
+            "src":"/image/1.jpg",
+            "type":"sale",
+            "title":"Home in Merrick Way",
+            "details":"Elegant retreat in a quiet Coral Gables setting"
+        },
+        {
+            "src":"/image/banner-image.jpg",
+            "type":"rent",
+            "title":"Merrick in Spring Way",
+            "details":"Elegant retreat in a quiet Coral Gables setting"
+        },
+        {
+            "src":"/image/3.jpg",
+            "type":"trend",
+            "title":"Hidden Spring Hideway",
+            "details":"Elegant retreat in a quiet Coral Gables setting"
+        },
+        {
+            "src":"/image/4.jpg",
+            "type":"sale",
+            "title":"Merrick in Spring Way",
+            "details":"Elegant retreat in a quiet Coral Gables setting"
+        },
+        {
+            "src":"/image/property/8.jpg",
+            "type":"rent",
+            "title":"Little Acorn Farm",
+            "details":"Elegant retreat in a quiet Coral Gables setting"
+        },
+        {
+            "src":"/image/property/6.jpg",
+            "type":"trend",
+            "title":"Home in Merrick Way",
+            "details":"Elegant retreat in a quiet Coral Gables setting"
+        }
+    ],
+    "gridtitle4":[
+        {
+            "src":"/image/1.jpg",
+            "type":"sale",
+            "title":"Home in Merrick Way",
+            "details":"Elegant retreat in a quiet Coral"
+        },
+        {
+            "src":"/image/banner-image.jpg",
+            "type":"rent",
+            "title":"Merrick in Spring Way",
+            "details":"Elegant retreat in a quiet Coral"
+        },
+        {
+            "src":"/image/3.jpg",
+            "type":"trend",
+            "title":"Hidden Spring Hideway",
+            "details":"Elegant retreat in a quiet Coral"
+        },
+        {
+            "src":"/image/4.jpg",
+            "type":"sale",
+            "title":"Merrick in Spring Way",
+            "details":"Elegant retreat in a quiet Coral"
+        },
+        {
+            "src":"/image/property/8.jpg",
+            "type":"rent",
+            "title":"Little Acorn Farm",
+            "details":"Elegant retreat in a quiet Coral"
+        },
+        {
+            "src":"/image/property/6.jpg",
+            "type":"trend",
+            "title":"Home in Merrick Way",
+            "details":"Elegant retreat in a quiet Coral"
+        },
+        {
+            "src":"/image/others/1.jpg",
+            "type":"rent",
+            "title":"Little Acorn Farm",
+            "details":"Elegant retreat in a quiet Coral"
+        },
+        {
+            "src":"/image/property/1.jpg",
+            "type":"trend",
+            "title":"Home in Merrick Way",
+            "details":"Elegant retreat in a quiet Coral"
+        }
+    ],
+    "mesonery3":[
+        {
+            "src":"/image/1.jpg",
+            "type":"sale"
+        },
+        {
+            "src":"/image/banner-image.jpg",
+            "type":"rent"
+        },
+        {
+            "src":"/image/3.jpg",
+            "type":"trend"
+        },
+        {
+            "src":"/image/4.jpg",
+            "type":"rent"
+        },
+        {
+            "src":"/image/property/8.jpg",
+            "type":"sale"
+        },
+        {
+            "src":"/image/property/6.jpg",
+            "type":"trend"
+        },
+        {
+            "src":"/image/property/4.jpg",
+            "type":"trend"
+        }
+    ],
+    "mesonery4":[
+        {
+            "src":"/image/property/13.jpg",
+            "type":"sale"
+        },
+        {
+            "src":"/image/property/12.jpg",
+            "type":"rent"
+        },
+        {
+            "src":"/image/property/16.jpg",
+            "type":"trend"
+        },
+        {
+            "src":"/image/property/11.jpg",
+            "type":"rent"
+        },
+        {
+            "src":"/image/property/8.jpg",
+            "type":"sale"
+        },
+        {
+            "src":"/image/property/17.jpg",
+            "type":"trend"
+        },
+        {
+            "src":"/image/property/18.jpg",
+            "type":"trend"
+        },
+        {
+            "src":"/image/property/19.jpg",
+            "type":"trend"
+        },
+        {
+            "src":"/image/property/5.jpg",
+            "type":"rent"
+        }
+    ],
+    "parallax":[
+        {
+            "src":"/image/parallax/3.jpg",
+            "title":"Orchard House",
+            "details":"unmissable experience in vienna"
+        },
+        {
+            "src":"/image/parallax/2.jpg",
+            "title":"Orchard House",
+            "details":"unmissable experience in vienna"
+        },
+        {
+            "src":"/image/parallax/1.jpg",
+            "title":"Orchard House",
+            "details":"unmissable experience in vienna"
+        },
+        {
+            "src":"/image/parallax/4.jpg",
+            "title":"Orchard House",
+            "details":"unmissable experience in vienna"
+        }
+    ],
+    "creative1":[
+        {
+            "class":"col-lg-6 p-0",
+            "src":"/image/parallax/4.jpg",
+            "title":"Merrick in Spring Way",
+            "details":"Elegant retreat in a quiet Coral Gables setting. This home provides wonderful entertaining spaces with a chef kitchen opening Residences can be classified by and connected to neighbouring residences and land."
+        },
+        {
+            "class":"col-lg-6 p-0 order-lg-1",
+            "src":"/image/parallax/5.jpg",
+            "title":"Home in Merrick Way",
+            "details":"Entertaining spaces with a chef kitchen opening Residences can be classified by and connected to neighbouring residences and land. Elegant retreat in a quiet Coral Gables setting. This home provides wonderful space."
+        },
+        {
+            "class":"col-lg-6 p-0",
+            "src":"/image/parallax/1.jpg",
+            "title":"Merrick in Spring Way",
+            "details":"Elegant retreat in a quiet Coral Gables setting. This home provides wonderful entertaining spaces with a chef kitchen opening Residences can be classified by and connected to neighbouring residences and land."
+        }
+      
+    ],
+    "creative2":[
+        {
+            "src":"/image/parallax/4.jpg"
+        },
+        {
+            "title":"Home in Merrick Way",
+            "details":" This home Elegant retreat in a quiet Coral Gables setting"
+        },
+        {
+            "src":"/image/parallax/5.jpg"            
+        },
+        {
+            "title":"Hidden Spring Hideway",
+            "details":" Elegant retreat in a quiet Coral Gables setting. This home."
+        },
+        {
+            "src":"/image/parallax/1.jpg"
+        },
+        {
+            "title":"Little Acorn Farm",
+            "details":" This home Elegant retreat in a quiet Coral Gables setting.."
+        }
+    ],
+    "creative3":[
+        {
+            "class":"col-lg-2 col-md-4 col-6 sale grid-item p-0",
+            "src":"/image/property/19.jpg",
+            "type":"sale"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 rent grid-item p-0",
+            "src":"/image/property/17.jpg",
+            "type":"rent"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 trend grid-item p-0",
+            "src":"/image/property/2.jpg",
+            "type":"trend"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 rent grid-item p-0",
+            "src":"/image/property/3.jpg",
+            "type":"rent"
+        },
+        {
+            "class":"col-lg-4 col-md-4 col-6 p-0 trend grid-item p-0",
+            "src":"/image/parallax/5.jpg",
+            "type":"trend"
+        },
+        {
+            "class":"col-lg-4 col-md-4 col-6 p-0 trend grid-item p-0",
+            "src":"/image/parallax/4.jpg",
+            "type":"trend"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 trend grid-item p-0",
+            "src":"/image/parallax/1.jpg",
+            "type":"trend"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 sale grid-item p-0",
+            "src":"/image/parallax/2.jpg",
+            "type":"sale"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 rent grid-item p-0",
+            "src":"/image/property/5.jpg",
+            "type":"rent"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 sale grid-item p-0",
+            "src":"/image/parallax/5.jpg",
+            "type":"sale"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 rent grid-item p-0",
+            "src":"/image/property/19.jpg",
+            "type":"rent"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 sale grid-item p-0",
+            "src":"/image/parallax/1.jpg",
+            "type":"sale"
+        }
+    ],
+    "creative4":[
+        {
+            "class":"col-lg-2 col-md-4 col-6 sale grid-item p-0",
+            "src":"/image/property/19.jpg",
+            "type":"sale"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 rent grid-item p-0",
+            "src":"/image/property/17.jpg",
+            "type":"rent"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 trend grid-item p-0",
+            "src":"/image/property/2.jpg",
+            "type":"trend"
+        },
+        {
+            "class":"col-lg-6 col-md-4 col-6 rent grid-item p-0",
+            "src":"/image/property/3.jpg",
+            "type":"rent"
+        },
+        {
+            "class":"col-lg-4 col-md-4 col-6 p-0 trend grid-item p-0",
+            "src":"/image/parallax/5.jpg",
+            "type":"trend"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 p-0 trend grid-item p-0",
+            "src":"/image/parallax/4.jpg",
+            "type":"trend"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 trend grid-item p-0",
+            "src":"/image/parallax/1.jpg",
+            "type":"trend"
+        },
+        {
+            "class":"col-lg-4 col-md-4 col-6 sale grid-item p-0",
+            "src":"/image/parallax/2.jpg",
+            "type":"sale"
+        },
+        {
+            "class":"col-lg-4 col-md-4 col-6 rent grid-item p-0",
+            "src":"/image/property/5.jpg",
+            "type":"rent"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 sale grid-item p-0",
+            "src":"/image/parallax/5.jpg",
+            "type":"sale"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 rent grid-item p-0",
+            "src":"/image/property/19.jpg",
+            "type":"rent"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 sale grid-item p-0",
+            "src":"/image/parallax/1.jpg",
+            "type":"sale"
+        },
+        {
+            "class":"col-lg-2 col-md-4 col-6 rent grid-item p-0",
+            "src":"/image/parallax/1.jpg",
+            "type":"rent"
+        }
+    ],
+    "details":[
+        {
+            "src":"/image/parallax/4.jpg",
+            "title":"About Project",
+            "details":"Residences can be classified by and connected to neighbouring residences and land. Residences can be classified by and connected to neighbouring residences and land. Residences can be classified by and connected to neighbouring residences and land.",
+            "icons":[
+                {
+                    "link":"https://www.facebook.com/",
+                    "aclass":"facebook",
+                    "iclass":"fab fa-facebook-f"
+                },
+                {
+                    "link":"https://twitter.com/",
+                    "aclass":"twitter",
+                    "iclass":"fab fa-twitter"
+                },
+                {
+                    "link":"https://account.google.com",
+                    "aclass":"google",
+                    "iclass":"fab fa-google"
+                },
+                {
+                    "link":"https://www.linkedin.com/",
+                    "aclass":"linkedin",
+                    "iclass":"fab fa-linkedin-in"
+                }
+            ],
+            "client":"john doe",
+            "date":"22 Nov 2023",
+            "link":"www.abcd.com",
+            "img":[
+                {
+                    "src":"/image/property/17.jpg"
+                },
+                {
+                    "src":"/image/property/5.jpg"
+                },
+                {
+                    "src":"/image/property/19.jpg"
+                },
+                {
+                    "src":"/image/property/11.jpg"
+                }
+            ]
+        }
+    ]
+}

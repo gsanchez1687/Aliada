@@ -1,0 +1,62 @@
+{
+    "cards":[
+        {
+            "title":"credit",
+            "src1":"/image/icon/chip.png",
+            "src2":"/image/icon/wifi.png",
+            "number":"XXXX-XXXX-XXXX-3401",
+            "date":"12/24",
+            "name":"Zack Lee",
+            "typesrc":"/image/icon/master.png",
+            "type":"master"
+        },
+        {
+            "title":"credit",
+            "src1":"/image/icon/chip.png",
+            "src2":"/image/icon/wifi.png",
+            "number":"XXXX-XXXX-XXXX-3401",
+            "date":"12/24",
+            "name":"Zack Lee",
+            "typesrc":"/image/icon/visa.png",
+            "type":"visa"
+        },
+        {
+            "title":"credit",
+            "src1":"/image/icon/chip.png",
+            "src2":"/image/icon/wifi.png",
+            "number":"XXXX-XXXX-XXXX-3401",
+            "date":"12/24",
+            "name":"Zack Lee",
+            "typesrc":"/image/icon/american.jpg",
+            "type":"american-express"
+        }
+    ],
+    "privacy":[
+        {
+            "title":"Allows others to see my profile",
+            "desc":"all peoples will be able to see my profile",
+            "checked":true
+        },
+        {
+        
+            "title":"who has save this profile only that people see my profile",
+            "desc":"all peoples will not be able to see my profile",
+            "checked":false
+        
+        }
+    ],
+    "account":[
+        {
+            "title":"Deleting Your Account Will Permanently",
+            "desc":"Once your account is deleted, you will be logged out and will be unable to log in back.",
+            "checked":true
+        },
+        {
+        
+            "title":"Deleting Your Account Will Temporary",
+            "desc":"Once your account is deleted, you will be logged out and you will be create new account",
+            "checked":false
+        
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+  "links": [
+    {
+      "link": "/page/otherpages/aboutus2",
+      "name": "About us"
+    },
+    {
+      "link": "/listing/grid_view/2_grid_view/left-sidebar",
+      "name": "New Arrivals"
+    },
+    {
+      "link": "/page/agency/agency-grid",
+      "name": "Agency"
+    },
+    {
+      "link": "/page/otherpages/faq",
+      "name": "Faq"
+    },
+    {
+      "link": "/contact/contact-2",
+      "name": "Contact"
+    }
+  ],
+  "feature": [
+    {
+      "link": "/page/otherpages/services",
+      "name": "Services"
+    },
+    {
+      "link": "/page/agency/agency-list",
+      "name": "Agency"
+    },
+    {
+      "link": "/agent/agent-grid",
+      "name": "Agents"
+    },
+    {
+      "link": "/page/otherpages/pricing",
+      "name": "Pricing"
+    },
+    {
+      "link": "/page/user-panel/user-favourites",
+      "name": "Favourites"
+    }
+  ],
+  "social": [
+    {
+      "link": "www.facebook.com",
+      "name": "Facebook"
+    },
+    {
+      "link": "www.instagram.com",
+      "name": "Instagram"
+    },
+    {
+      "link": "www.twitter.com",
+      "name": "Twitter"
+    },
+    {
+      "link": "www.mailchimap.com",
+      "name": "Mail chimp"
+    },
+    {
+      "link": "myaccount.google.com",
+      "name": "Gmail"
+    }
+  ],
+  "blog": [
+    {
+      "img": "/image/footer/1.jpg",
+      "link": "/page/blog_page/left-sidebar",
+      "link2": "/page/blog_page/right-sidebar",
+      "title": "Real Estate Industry",
+      "detail": "Electronic version of the real estate industry."
+    },
+    {
+      "img": "/image/footer/2.jpg",
+      "link": "/page/blog_page/left-sidebar",
+      "link2": "/page/blog_page/right-sidebar",
+      "title": "Entertaining Spaces",
+      "detail": "This home provides wonderful entertaining spaces."
+    },
+    {
+      "img": "/image/footer/3.jpg",
+      "link": "/page/blog_page/left-sidebar",
+      "link2": "/page/blog_page/right-sidebar",
+      "title": "Estate Agents Work",
+      "detail": "The market of buying and selling real estate."
+    },
+    {
+      "img": "/image/footer/4.jpg",
+      "link": "/page/blog_page/left-sidebar",
+      "link2": "/page/blog_page/right-sidebar",
+      "title": "Increase in Demand",
+      "detail": "The effects of an increase demand in short run."
+    }
+  ]
+}

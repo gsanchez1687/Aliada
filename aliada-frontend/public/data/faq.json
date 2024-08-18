@@ -1,0 +1,45 @@
+{
+    "faq":[
+        {
+            "title":"Frequently ask question",
+            "accordion":[
+                {
+                    "link":"#collapseOne",
+                    "heading":"Different types of housing tenure can be used for the same physical type.",
+                    "id":"collapseOne",
+                    "details":"In markets where land and building prices are rising, real estate is often purchased as an investment, whether or not the owner intends to use the property."
+                },
+                {
+                    "link":"#collapseTwo",
+                    "heading":"Section 1.10.32 of 'de Finibus Bonorum et Malorum', written by",
+                    "id":"collapseTwo",
+                    "details":"In markets where land and building prices are rising, real estate is often purchased as an investment, whether or not the owner intends to use the property."
+                },
+                {
+                    "link":"#collapseThree",
+                    "heading":"Different types of housing tenure can be used for the same physical type.",
+                    "id":"collapseThree",
+                    "details":"In markets where land and building prices are rising, real estate is often purchased as an investment, whether or not the owner intends to use the property. In markets where land and building prices are rising, real estate is often purchased as an investment, whether or not the owner intends to use the property."
+                },
+                {
+                    "link":"#collapseFour",
+                    "heading":"Different types of housing tenure can be used for the same physical type.",
+                    "id":"collapseFour",
+                    "details":"In markets where land and building prices are rising, real estate is often purchased as an investment, whether or not the owner intends to use the property. In markets where land and building prices are rising, real estate is often purchased as an investment, whether or not the owner intends to use the property."
+                },
+                {
+                    "link":"#collapseFive",
+                    "heading":" Section 1.10.32 of 'de Finibus Bonorum et Malorum', written",
+                    "id":"collapseFive",
+                    "details":"In markets where land and building prices are rising, real estate is often purchased as an investment, whether or not the owner intends to use the property."
+                },
+                {
+                    "link":"#collapseSix",
+                    "heading":"Different types of housing tenure can be used for the same physical type.",
+                    "id":"collapseSix",
+                    "details":"In markets where land and building prices are rising, real estate is often purchased as an investment, whether or not the owner intends to use the property.In markets where land and building prices are rising, real estate is often purchased as an investment, whether or not the owner intends to use the property."
+                }
+            ]
+        }
+    ]
+}

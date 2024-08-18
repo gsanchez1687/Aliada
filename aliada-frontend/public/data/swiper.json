@@ -1,0 +1,61 @@
+{
+    "data":[
+        {
+            "type":"filter",
+            "slides":[
+                {
+                    "id":1,
+                    "img":"/image/signature/2.png",
+                    "description":"Want to buy or rent Home ?",
+                    "title":"Reality Properties solve your problems",
+                    "link":"/"
+                },
+                {
+                    "id":2,
+                    "img":"/image/signature/2.png",
+                    "description":"Want to buy or rent Land ?",
+                    "title":"Elegant retreat in quiet Coral Gables",
+                    "link":"/"
+                }
+            ]
+        },
+        {
+            "type":"corporate",
+            "slides":[
+                {
+                    "tag":"#Realestate",
+                    "title":"How Much is My Land Worth ?",
+                    "details":"Elegant retreat in a quiet Coral Gables setting. This home provides wonderful entertaining spaces with a chef kitchen opening Elegant retreat in a quiet Coral Gables setting."
+                },
+                {
+                    "tag":"#Realestate",
+                    "title":"How Much is My House Worth ?",
+                    "details":"This home provides wonderful entertaining spaces with a chef kitchen opening Elegant retreat in a quiet Coral Gables setting. Elegant retreat in a quiet Coral Gables setting."
+                }
+            ]
+        },
+        {
+            "type":"imagecontent",
+            "slides":[
+                {
+                    "tag":"For Sale",
+                    "title":"Home",
+                    "submit":"Submit Property",
+                    "img":"/image/layout/2.jpg"
+                },
+                {
+                    "tag":"For Rent",
+                    "title":"Town",
+                    "submit":"Submit Property",
+                    "img":"/image/layout/1.jpg"
+                },
+                {
+                    "tag":"For Sale",
+                    "title":"Villa",
+                    "submit":"Submit Property",
+                    "img":"/image/property/1.jpg"
+                }
+            ]
+        }
+    ]
+}

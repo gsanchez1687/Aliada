@@ -1,0 +1,70 @@
+{
+  "find": [
+    {
+      "class1": "col-xl-3 col-lg-4 col-md-5 col-sm-6 wow fadeInUp",
+      "class2": "find-cities bg-size",
+      "class3": "citi-overlay",
+      "class4": "font-roboto",
+      "title": "Many Property in this city",
+      "img": "/image/property/8.jpg",
+      "city": "Dubai",
+      "totalproperty" : "12+ Property",
+      "id": "12"
+    },
+    {
+      "class1": "col-xl-3 col-lg-4 col-md-5 col-sm-6 wow fadeInUp",
+      "class2": "find-cities bg-size",
+      "class3": "citi-overlay",
+      "class4": "font-roboto",
+      "title": "Many Land in this city",
+      "img": "/image/others/1.jpg",
+      "city": "U.s.a",
+      "totalproperty" : "5+ Property",
+      "id": "13"
+    },
+    {
+      "class1": "col-xl-6 col-lg-8 col-md-7 wow fadeInUp",
+      "class2": "find-cities bg-size",
+      "class3": "citi-overlay",
+      "class4": "font-roboto",
+      "title": "Many Spaces in this city",
+      "img": "/image/3.jpg",
+      "city": "New York",
+      "totalproperty" : "6+ Property",
+      "id": "14"
+    },
+    {
+      "class1": "col-xl-6 col-lg-8 col-md-7 wow fadeInUp",
+      "class2": "find-cities bg-size",
+      "class3": "citi-overlay",
+      "class4": "font-roboto",
+      "title": "Many Flat in this city",
+      "img": "/image/property/6.jpg",
+      "city": "Brazil",
+      "totalproperty" : "8+ Property",
+      "id": "15"
+    },
+    {
+      "class1": "col-xl-3 col-lg-4 col-md-5 col-sm-6 wow fadeInUp",
+      "class2": "find-cities bg-size",
+      "class3": "citi-overlay",
+      "class4": "font-roboto",
+      "title": "Many Land in this city",
+      "img": "/image/1.jpg",
+      "city": "Dubai",
+      "totalproperty" : "10+ Property",
+      "id": "16"
+    },
+    {
+      "class1": "col-xl-3 col-lg-4 col-md-5 col-sm-6 wow fadeInUp",
+      "class2": "find-cities bg-size",
+      "class3": "citi-overlay",
+      "class4": "font-roboto",
+      "title": "Many Spaces in this city",
+      "img": "/image/property/7.jpg",
+      "city": "France",
+      "totalproperty" : "12+ Property",
+      "id": "17"
+    }
+  ]
+}

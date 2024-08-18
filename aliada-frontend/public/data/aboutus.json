@@ -1,0 +1,89 @@
+{
+    "listing":[
+        {
+            "total":"15,801",
+            "name":"Total property"
+        },
+        {
+            "total":"5792",
+            "name":"Agents"
+        },
+        {
+            "total":"3871",
+            "name":"Agency"
+        },
+        {
+            "total":"4791+",
+            "name":"Sold out property"
+        }
+    ],
+    "mapicon":[
+        {
+            "src":"/image/leaflet/marker-icon.png",
+            "class":"marker-1"
+        },
+        {
+            "src":"/image/leaflet/marker-icon.png",
+            "class":"marker-2"
+        },
+        {
+            "src":"/image/leaflet/marker-icon.png",
+            "class":"marker-3"
+        },
+        {
+            "src":"/image/leaflet/marker-icon.png",
+            "class":"marker-4"
+        }
+    ],
+    "choose":[
+        {
+            "title":"Tax Advantage",
+            "desc":"Residences can be classified by and how they are connected to neighbouring residences and land",
+            "icon":"ph:activity-bold"
+        },
+        {
+            "title":"Property Insurance",
+            "desc":"Residences can be classified by and how they are connected to neighbouring residences and land",
+            "icon":"ph:house-bold"
+        },
+        {
+            "title":"Lowest Commission",
+            "desc":"Residences can be classified by and how they are connected to neighbouring residences and land",
+            "icon":"ph:currency-dollar-bold"
+        }
+    ],
+    "blog":[
+        {
+            "src":"/image/blog/1.jpg",
+            "date":"04",
+            "month":"Aug",
+            "location":"Phonics ,Newyork",
+            "title":"Twice profit than before you ever got in business.",
+            "desc":"Residences can be classified by and how they are connected neighbouring residences and land. Different types of housing tenure can be used for the same physical type."
+        },
+        {
+            "src":"/image/blog/2.jpg",
+            "date":"05",
+            "month":"nov",
+            "location":"Berlin,Germany",
+            "title":"Apartment An individual unit in a multi-unit building.",
+            "desc":"Sometimes complemented by advice. Decoration is the furnishing of a space with decorative elements, sometimes complemented."
+        },
+        {
+            "src":"/image/blog/3.jpg",
+            "date":"15",
+            "month":"sept",
+            "location":"Barcelona,London",
+            "title":"Different type of housing can used same physical type.",
+            "desc":"Decoration is the furnishing of a space with decorative elements, sometimes complemented by advice. sometimes complemented and practical assistance."
+        },
+        {
+            "src":"/image/blog/1.jpg",
+            "date":"04",
+            "month":"Aug",
+            "location":"Phonics ,Newyork",
+            "title":"Twice profit than before you ever got in business.",
+            "desc":"Residences can be classified by and how they are connected neighbouring residences and land. Different types of housing tenure can be used for the same physical type."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+<template>
+    <section class="coming-simple h-auto">
+        <div class="container">
+            <div class="row log-in">
+                <div class="col-lg-6 ratio2_3 order-lg-1">
+                    <img src="/image/inner-pages/1.svg" class="img-fluid bg-size" alt="">
+                </div>
+                <div class="col-lg-6 m-0">
+                    <div class="title-3 text-start">
+                        <h6>Clean & responsive</h6>
+                        <h2>Coming soon</h2>
+                    </div>
+                    <div class="site-construction">
+                        <h4>Site under construction, we are currently working</h4>
+                        <p class="font-roboto">Connected residences might be owned by a single entity and leased out,
+                            or owned separately with an agreement covering the relationship between.</p>
+                    </div>
+                    <form action="#" class="theme-form w-100">
+                        <div class="form-group">
+                            <input type="email" name="email" id="name" class="form-control"
+                                placeholder="Enter your email address" required>
+                            <button type="submit" class="btn btn-gradient color-2 btn-pill">subscribe</button>
+                        </div>
+                    </form>
+                    <nuxt-link to="/home/corporate" class="btn btn-gradient color-2 btn-pill mt-4"> <i
+                            class="fas fa-arrow-left me-2"></i> Back to home</nuxt-link>
+                </div>
+            </div>
+        </div>
+    </section>
+</template>
+
+<script setup lang="ts">
+
+</script>
+
+<style scoped></style>
